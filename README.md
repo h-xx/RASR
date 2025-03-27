@@ -3,4 +3,4 @@
 RASR - Recognize And Spot Runners
 Your Edge in the Solana Memecoin Market.
 
-By @smav (currently working locally, will update the github soon)
+By @smav (currently working locally, will update the github soon
